@@ -1,4 +1,4 @@
 sfa
 ===
 
-Finite Automata library and CLI clients
+Finite Automata library and CLI client
